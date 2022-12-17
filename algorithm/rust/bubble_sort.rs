@@ -1,5 +1,5 @@
 // https://news.mynavi.jp/techplus/article/programinglanguageoftheworld-45/
-// cmd: $ rustc ./rust/bubble_sort.rs && ./bubble_sort
+// cmd: $ rustc ./algorithm/rust/bubble_sort.rs && ./bubble_sort
 fn main() {
     let mut data = [5, 18, 3, 19, 9, 20, 15, 1, 12, 2];
     bubble_sort(&mut data);

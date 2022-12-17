@@ -1,4 +1,5 @@
--- https://news.mynavi.jp/techplus/article/programinglanguageoftheworld-45/ --
+-- https://news.mynavi.jp/techplus/article/programinglanguageoftheworld-45/
+-- $ lua ./algorithm/lua/bubble_sort.lua
 
 local data = {5, 18, 3, 19, 9, 20, 15, 1, 12, 2}
 function bubble_sort(arr)

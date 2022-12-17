@@ -1,5 +1,5 @@
 // https://news.mynavi.jp/techplus/article/programinglanguageoftheworld-45/
-// cmd: bun run ./typescript/bubble_sort.ts 
+// cmd: $ bun run ./algorithm/typescript/bubble_sort.ts 
 
 const data = [5, 18, 3, 19, 9, 20, 15, 1, 12, 2];
 bubbleSort(data);

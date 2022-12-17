@@ -1,3 +1,4 @@
+# $ perl ./algorithm/perl/bubble_sort.pl
 use strict;
 use warnings;
 use Data::Dumper;
